@@ -1,0 +1,13 @@
+title: Nexus Documentation
+description: A cluster designed for machine learning intensive workloads.
+remote_theme: carlosperate/jekyll-theme-rtd
+
+# Theme settings:
+site_author: Chufan Chen
+repo_url: "https://github.com/ChufanSuki/nexus.git"
+edit_on_github: true
+github_docs_folder: true
+sticky_navigation: true
+prev_next_buttons_location: bottom
+search_enabled: true
+hljs_style: github-gist
